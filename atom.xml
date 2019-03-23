@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-23T18:05:44.744Z</updated>
+  <updated>2019-03-23T18:59:11.455Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,41 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Yuan Chen</title>
+    <title>ABOUT ME</title>
     <link href="http://yoursite.com/home/"/>
     <id>http://yoursite.com/home/</id>
-    <published>2019-03-23T18:01:56.602Z</published>
-    <updated>2019-03-23T18:05:44.744Z</updated>
+    <published>2019-03-23T16:00:00.000Z</published>
+    <updated>2019-03-23T18:59:11.455Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>I am currently an undergraduate student in Nanjing, China.</li><li>I have board subject background including Environmental Science (Undergraduate Major), Computational Mathematics, Mathematics Statistics &amp; Probability Theory(Expected M.S.) and Applied Statistics.</li><li>I expect to be a scholar in the field of statistics and applied mathematics or data analyst for application in the future. </li></ul>]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>publications</title>
-    <link href="http://yoursite.com/publications/"/>
-    <id>http://yoursite.com/publications/</id>
-    <published>2019-03-23T17:54:22.000Z</published>
-    <updated>2019-03-23T17:54:22.394Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>research</title>
-    <link href="http://yoursite.com/research/"/>
-    <id>http://yoursite.com/research/</id>
-    <published>2019-03-23T17:54:12.000Z</published>
-    <updated>2019-03-23T17:54:12.394Z</updated>
-    
-    <summary type="html">
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;I am currently an undergraduate student in Nanjing, China.&lt;/li&gt;
+&lt;li&gt;I have board subject background including Environmental Science
+      
     
     </summary>
     
