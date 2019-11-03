@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-11T16:58:47.597Z</updated>
+  <updated>2019-11-03T16:08:27.408Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <title>ABOUT ME</title>
     <link href="http://yoursite.com/home/"/>
     <id>http://yoursite.com/home/</id>
-    <published>2019-03-24T04:00:00.000Z</published>
-    <updated>2019-05-11T16:58:47.597Z</updated>
+    <published>2019-11-03T04:00:00.000Z</published>
+    <updated>2019-11-03T16:08:27.408Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/yJesseChen/MarkdownPhoto/master/1.png" height="280"></p><ul><li>I am currently an undergraduate student of environmental science and engineering in Hohai University, Nanjing, China. I expect to complete my master study of Statistics in <a href="https://statistics.columbian.gwu.edu/" target="_blank" rel="noopener">The George Washington University</a>, Washington, DC.</li><li>I majored in environmental science and engineering through my 4-year undergraduate study. In the meantime, however, my broad and diverse experience has covered Computational Mathematics(publications), Mathematical Statistics &amp; Probability Theory (Intern in Mobike) and Data Analysis in Natural Science (RA experience &amp; undergraduate thesis). These experience brought me a wide sight on my place and made me who I am today.</li><li>I am on my way to be a researcher in the field of statistics and applied mathematics. You can contact me through <a href="mailto:yuanchen0705@outlook.com" target="_blank" rel="noopener">yuanchen0705@outlook.com</a>.</li><li>Choice of homepage theme is from <em>‘The Legend of Zelda’</em>, a series of outstanding console games which have brought me happiness.</li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/yJesseChen/MarkdownPhoto/master/1.png" height="280"></p><ul><li>I am currently an graduate student of Statistics in <a href="https://statistics.columbian.gwu.edu/" target="_blank" rel="noopener">The George Washington University</a>, Washington, D.C., U.S.A.</li><li>I majored in environmental science and engineering through my 4-year undergraduate study. In the meantime, however, my broad and diverse experience has covered Computational Mathematics(publications), Mathematical Statistics &amp; Probability Theory (Intern in Mobike) and Data Analysis in Natural Science (RA experience &amp; undergraduate thesis). These experience brought me a wide sight on my place and made me who I am today.</li><li>I am on my way to be a researcher in the field of statistics and applied mathematics. You can contact me through yuan_chen AT gwu DOT edu.</li><li>Choice of homepage theme is from <em>‘The Legend of Zelda’</em>, a series of outstanding console games which have brought me happiness.</li></ul>]]></content>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       
         &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/yJesseChen/MarkdownPhoto/master/1.png&quot; height=&quot;280&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;I am currently an undergrad
+&lt;li&gt;I am currently an graduate 
       
     
     </summary>
