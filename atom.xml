@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-29T02:09:30.798Z</updated>
+  <updated>2020-02-29T05:49:21.306Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>ABOUT ME</title>
     <link href="http://yoursite.com/home/"/>
     <id>http://yoursite.com/home/</id>
-    <published>2019-11-03T04:00:00.000Z</published>
-    <updated>2020-02-29T02:09:30.798Z</updated>
+    <published>2019-03-23T18:01:56.602Z</published>
+    <updated>2020-02-29T05:49:21.306Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/yJesseChen/MarkdownPhoto/master/1.png" height="280"></p><ul><li>I am a master student of Statistics in <a href="https://statistics.columbian.gwu.edu/" target="_blank" rel="noopener">The George Washington University</a>, currently finding research position in statistics, applied mathematics and related disciplines.</li><li>I am working on Partially Penalized Immersed Finite Element method for Elastodynamics interface problem with <a href="http://math.okstate.edu/people/xzhang/" target="_blank" rel="noopener">Dr. Xu Zhang</a>.</li><li>I worked on Immersed Finite Element method for Elliptic interface problems with multi-domain and triple junction points, environmental flow dynamics and statistical analysis on sustainability in the past two years. Please see <a href="http://iamyuanchen.xyz/research/" target="_blank" rel="noopener">Research</a> and <a href="http://iamyuanchen.xyz/CV/" target="_blank" rel="noopener">CV</a> for more information.</li><li>Homepage theme is stemmed from <em>‘The Legend of Zelda’</em>, my favorite console game designed by Nintendo.</li></ul>]]></content>
     
