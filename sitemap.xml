@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/research/index.html</loc>
+    
+    <lastmod>2020-03-14T03:06:21.593Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/INFO/index.html</loc>
+    
+    <lastmod>2020-03-14T03:04:09.350Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/CV/index.html</loc>
+    
+    <lastmod>2020-03-14T03:01:53.084Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/publications/index.html</loc>
+    
+    <lastmod>2020-03-14T02:56:59.184Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/index/</loc>
     
     <lastmod>2020-03-14T01:55:55.518Z</lastmod>
@@ -26,34 +54,6 @@
     <loc>http://yoursite.com/presentations/index.html</loc>
     
     <lastmod>2020-03-13T23:49:19.450Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/research/index.html</loc>
-    
-    <lastmod>2020-03-13T23:43:48.193Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/publications/index.html</loc>
-    
-    <lastmod>2020-03-13T14:51:03.958Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/INFO/index.html</loc>
-    
-    <lastmod>2020-03-11T02:01:47.330Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/CV/index.html</loc>
-    
-    <lastmod>2020-03-11T01:36:10.815Z</lastmod>
     
   </url>
   
