@@ -4,14 +4,28 @@
   <url>
     <loc>http://yoursite.com/research/index.html</loc>
     
-    <lastmod>2020-03-17T20:20:43.187Z</lastmod>
+    <lastmod>2020-03-17T21:22:51.135Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/index/</loc>
+    
+    <lastmod>2020-03-17T20:45:27.686Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/index.html</loc>
     
-    <lastmod>2020-03-17T20:04:34.052Z</lastmod>
+    <lastmod>2020-03-17T20:45:27.686Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/home/index.html</loc>
+    
+    <lastmod>2020-03-17T20:45:27.686Z</lastmod>
     
   </url>
   
@@ -19,20 +33,6 @@
     <loc>http://yoursite.com/INFO/index.html</loc>
     
     <lastmod>2020-03-17T05:20:25.447Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/index/</loc>
-    
-    <lastmod>2020-03-17T05:17:14.267Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/home/index.html</loc>
-    
-    <lastmod>2020-03-17T05:17:14.267Z</lastmod>
     
   </url>
   
